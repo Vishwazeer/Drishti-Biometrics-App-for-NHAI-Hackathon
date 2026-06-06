@@ -3,7 +3,7 @@
 > **Built for NHAI Hackathon 7.0** | **Team TrenCoders**  
 > React Native • On-Device AI • Dual Liveness Verification • Zero Network Dependency
 
-[![APK Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/ninjacode911/drishti/releases/latest)
+[![APK Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Vishwazeer/Drishti-Biometrics-App-for-NHAI-Hackathon/releases/latest)
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=youtube)](./DEMO.md)
 [![Architecture Doc](https://img.shields.io/badge/Doc-Architecture-orange?style=for-the-badge)](./ARCHITECTURE.md)
 
