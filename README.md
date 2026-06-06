@@ -98,5 +98,7 @@ We adopt a strict **privacy-by-design** approach:
 ## 👥 Team
 
 Built with ❤️ by **Team TrenCoders**:
-* **Vishwajeet** - Lead Mobile & ML Engineer
+* **Vishwajeet Pisal Deshmukh**
+* **Navnit A**
+* **Devansh Tyagi**
 
